@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "name": "E-mail",
+    "href": "mailto:franciscomalamute@hotmail.com ?subject=Consulta%20desde%20sitio%20web",
+    "img": "image/logos/logo-mail.png"
+  },
+  {
+    "id": 1,
+    "name": "Whatsapp",
+    "href": "https://wa.me/",
+    "img": "image/logos/logo-wp.png"
+  },
+  {
+    "id": 2,
+    "name": "Instagram",
+    "href": "https://www.instagram.com",
+    "img": "image/logos/logo-ig.png"
+  }
+]

@@ -1,0 +1,19 @@
+Aqui voy a dejar algunas cosas que capaz me van a servir mas adelante:
+    1- ItemListContainer.js
+        import React from "react";
+        import ItemCount from "../assets/template/ItemCount";
+
+        const ItemListContainer = ({ greeting }) => {  
+            const qtyProduct = (qty) => {
+            console.log(qty);
+            };
+
+            return (
+            <>
+                <h1>{greeting}</h1>
+                <ItemCount qtyProduct={qtyProduct} />
+            </>
+            );
+        };
+
+        export default ItemListContainer;

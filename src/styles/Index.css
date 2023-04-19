@@ -1,0 +1,42 @@
+@font-face {
+  font-family: "logotipo";
+  src: url(../assets/fonts/logotipo/FontsFree-Net-Mont-Bold.ttf);
+}
+@font-face {
+  font-family: "texto";
+  src: url(../assets/fonts/textos/akzidenz-grotesk-bq-extended.otf);
+}
+@font-face {
+  font-family: "titulo";
+  src: url(../assets/fonts/titulos/akzidenz-grotesk-bq-bold-extended.otf);
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+#root {
+  background-color: #da5555;
+}
+.active {
+  color: rgb(255, 255, 255) !important;
+  font-weight: bold !important;
+}
+
+@keyframes loader {
+  0% {
+    transform: translate(-50%, -50%) rotate(0deg);
+  }
+  100% {
+    transform: translate(-50%, -50%) rotate(360deg);
+  }
+}
+
+@keyframes loader2 {
+  0% {
+    transform: translate(-50%, -50%) rotate(0deg);
+  }
+  100% {
+    transform: translate(-50%, -50%) rotate(-360deg);
+  }
+}

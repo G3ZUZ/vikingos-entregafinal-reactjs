@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "name": "HOME",
+    "route": "/"
+  },
+  {
+    "id": 1,
+    "name": "VODKA",
+    "route": "/Cafes/Cafes-de-125grs"
+  },
+  {
+    "id": 2,
+    "name": "WHISKY",
+    "route": "/Cafes/Cafes-de-250grs"
+  },
+  {
+    "id": 3,
+    "name": "STOCK",
+    "route": "/Stock"
+  }
+]
