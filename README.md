@@ -1,7 +1,14 @@
 <h1 align="center"> VIKINGOS ALCOHOL ECOMMERCE </h1>
 
+
 <br /> 
 Este proyecto comienza como un trabajo practico de cero para poder aprobar el curso de ReactJS. La intención es desarrollar una plataforma libre, gratuita y de código abierto para que cualquier usuario que desea crear su e-commerce de manera sencilla
+
+
+## PREVIEW
+![]()
+
+
 
 # LIBRERIAS UTILIZADAS EN ESTE PROYECTO
 
