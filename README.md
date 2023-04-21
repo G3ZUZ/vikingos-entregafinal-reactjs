@@ -6,7 +6,7 @@ Este proyecto comienza como un trabajo practico de cero para poder aprobar el cu
 
 
 ## PREVIEW
-![]()
+![](https://github.com/G3ZUZ/vikingos-entregafinal-reactjs/blob/main/public/testgif.gif)
 
 
 
