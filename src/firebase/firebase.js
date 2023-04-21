@@ -1,13 +1,14 @@
 import { initializeApp } from "firebase/app";
 import { getFirestore } from "firebase/firestore";
 
+
 const firebaseConfig = {
-  apiKey: "AIzaSyAE5-pelw645H6TzA-AmHeqmvKel8cqMwY",
-  authDomain: "fir-reactcoder-653aa.firebaseapp.com",
-  projectId: "fir-reactcoder-653aa",
-  storageBucket: "fir-reactcoder-653aa.appspot.com",
-  messagingSenderId: "83951606055",
-  appId: "1:83951606055:web:78c33c4fc041fec343b102",
+  apiKey: "AIzaSyBL2n5AGMpC2PIS3SZssRjFGtBVKc3JCC4",
+  authDomain: "vikingos-alcohol.firebaseapp.com",
+  projectId: "vikingos-alcohol",
+  storageBucket: "vikingos-alcohol.appspot.com",
+  messagingSenderId: "488325662246",
+  appId: "1:488325662246:web:b6afbbc0fb19e16af388e7",
 };
 
 const app = initializeApp(firebaseConfig);

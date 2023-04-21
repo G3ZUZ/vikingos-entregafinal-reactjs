@@ -7,12 +7,12 @@
   {
     "id": 1,
     "name": "VODKA",
-    "route": "/Cafes/Cafes-de-125grs"
+    "route": "/vodka"
   },
   {
     "id": 2,
     "name": "WHISKY",
-    "route": "/Cafes/Cafes-de-250grs"
+    "route": "/whisky"
   },
   {
     "id": 3,
